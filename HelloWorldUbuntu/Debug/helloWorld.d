@@ -1,0 +1,1 @@
+helloWorld.d: ../helloWorld.c
